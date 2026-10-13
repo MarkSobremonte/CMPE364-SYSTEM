@@ -1,0 +1,18 @@
+﻿# Web / mobile dependencies
+web/node_modules/
+mobile/node_modules/
+web/dist/
+mobile/.expo/
+
+# Python environment and cache
+**/.venv/
+**/__pycache__/
+*.pyc
+
+# Local secrets / environment files
+.env
+.env.*
+!.env.example
+
+# Common IDE-local files
+.ide/
